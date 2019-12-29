@@ -11,7 +11,7 @@ $koneksi = new mysqli("localhost","root","","parking");
 <html lang="en">
 <head>
 
-    <title>Saleum Aneuk Nanggroe</title>
+    <title>Smart Parking System</title>
     
     <link rel="stylesheet" href="bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="shortcut icon" type="image/x-icon" href="img/logo.png"/>
